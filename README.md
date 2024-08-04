@@ -1,4 +1,4 @@
-### 用处：可用于公有云，私有云上VPSLinux系统DD成VyOS软路由：
+### 用处：可用于公有云，私有云上VPSLinux系统DD成VyOS软路由
 
 ### 下载地址：[点我](https://alist.yydy.link:2023/🧩Share---共享文件/vyos)
 

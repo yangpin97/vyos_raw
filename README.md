@@ -1,6 +1,6 @@
 ### 使用场景：可用于公有云，私有云上VPSLinux系统DD成VyOS软路由
 
-### 下载地址：[点我](https://alist.yydy.link:2023/🧩Share---共享文件/vyos)
+### 下载地址：[点我](https://pan.yydy.link:2023/share/vyos)
 
 ### 使用指导：[UCloud 云主机 DD 成 VyOS 软路由](https://yangpin.link/archives/1889.html);[AWS 云主机 DD 成 VyOS 软路由](https://yangpin.link/archives/1890.html)
 

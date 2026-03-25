@@ -5,6 +5,13 @@
 
   <br />
 
+  <!-- 官网直达按钮（新加） -->
+  <a href="https://www.feijiangkeji.com">
+    <img src="https://img.shields.io/badge/%E9%A3%9E%E5%B0%86%E5%AE%98%E7%BD%91-%E7%82%B9%E5%87%BB%E7%9B%B4%E8%BE%BE-28a745?style=for-the-badge" alt="飞将官网 点击直达">
+  </a>
+
+  <br />
+
   <a href="https://www.feijiangkeji.com">
     <img src="https://img.shields.io/badge/%E9%A3%9E%E5%B0%86VPN-%E4%BC%81%E4%B8%9A%E7%BA%A7%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC-red?style=for-the-badge" alt="飞将VPN｜企业级远程办公">
   </a>
@@ -20,6 +27,7 @@
 </div>
 
 - ✅ 全端支持｜自研 Windows、macOS、Android、iOS 客户端；兼容 AnyConnect、OpenConnect，老员工免切换
+- 🧷 桌面增强｜本地密码箱；远程办公集成 SSH / RDP / VNC / Web / SFTP
 - 🚀 极简接入｜企业识别码直连，输入名称即连，用户无需记忆复杂IP端口
 - 🧩 组织对接｜OpenLDAP / Windows AD / 钉钉 / 飞书 / 企业微信 / 本地用户
 - 🛡️ 安全防护｜短信/邮件 2FA + 可信设备（规划 DLP、效率审计）

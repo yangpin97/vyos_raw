@@ -1,19 +1,18 @@
-### 使用场景：可用于公有云，私有云上VPSLinux系统DD成VyOS软路由
+<div align="center">
 
-### 下载地址：[点我](https://pan.yydy.link:2023/share/vyos)
+[![飞将VPN｜企业级远程办公](https://img.shields.io/badge/%E9%A3%9E%E5%B0%86VPN-%E4%BC%81%E4%B8%9A%E7%BA%A7%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC-red?style=for-the-badge)](https://www.feijiangkeji.com?src=anylink-readme)
 
-### 使用指导：[UCloud 云主机 DD 成 VyOS 软路由](https://yangpin.link/archives/1889.html);[AWS 云主机 DD 成 VyOS 软路由](https://yangpin.link/archives/1890.html)
+[![订阅 299元/年](https://img.shields.io/badge/%E8%AE%A2%E9%98%85-299%E5%85%83%2F%E5%B9%B4-orange?style=for-the-badge)](https://www.feijiangkeji.com?src=anylink-readme)
+[![买断 1299元/永久](https://img.shields.io/badge/%E4%B9%B0%E6%96%AD-1299%E5%85%83%2F%E6%B0%B8%E4%B9%85-red?style=for-the-badge)](https://www.feijiangkeji.com?src=anylink-readme)
+[![限前 50 名](https://img.shields.io/badge/%E9%99%90%E5%89%8D-50%E5%90%8D-critical?style=for-the-badge)](https://www.feijiangkeji.com?src=anylink-readme)
+[![兼容 AnyConnect/OpenConnect](https://img.shields.io/badge/%E5%85%BC%E5%AE%B9-AnyConnect%2FOpenConnect-brightgreen?style=for-the-badge)](https://www.feijiangkeji.com?src=anylink-readme)
 
-**1、镜像构建时间：2024年8月3日。**
+</div>
 
-**2、镜像基于vyos-1.3.0版本构建，dd完成后请升级到最新滚动版。**
+- ✅ 无缝兼容｜AnyConnect / OpenConnect，老员工免切换
+- 🚀 极简接入｜企业识别码直连，输入名称即连
+- 🧩 组织对接｜OpenLDAP / Windows AD / 钉钉 / 飞书 / 企业微信
+- 🛡️ 安全防护｜短信/邮件 2FA + 可信设备（规划 DLP、效率审计）
+- 🧰 部署协助｜一键部署 + 专业网络指导
 
-**3、镜像默认eth0和eth1口开了dhcp-client**
-
-**4、ssh端口：22**
-
-**5、console接口有：hvc0、hvc1、ttyS0（115200）、ttyS1**
-
-**6、账号密码默认都是：vyos**
-
-**VyOS-技术交流群：228621344**
+> 🔴 限前 50 名内部价：10 人订阅 299 元/年｜10 人买断 1299 元/永久

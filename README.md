@@ -1,36 +1,19 @@
-<div align="center">
-  <a href="https://www.feijiangkeji.com">
-    <img src="https://www.feijiangkeji.com/assets/img/highlights/terminal.png" alt="飞将VPN 终端展示" width="900" />
-  </a>
+### 使用场景：可用于公有云，私有云上VPSLinux系统DD成VyOS软路由
 
-  <br />
+### 下载地址：[点我](https://pan.yydy.link:2023/share/vyos)
 
-  <!-- 官网直达按钮（新加） -->
-  <a href="https://www.feijiangkeji.com">
-    <img src="https://img.shields.io/badge/%E9%A3%9E%E5%B0%86%E5%AE%98%E7%BD%91-%E7%82%B9%E5%87%BB%E7%9B%B4%E8%BE%BE-28a745?style=for-the-badge" alt="飞将官网 点击直达">
-  </a>
+### 使用指导：[UCloud 云主机 DD 成 VyOS 软路由](https://yangpin.link/archives/1889.html);[AWS 云主机 DD 成 VyOS 软路由](https://yangpin.link/archives/1890.html)
 
-  <br />
+**1、镜像构建时间：2024年8月3日。**
 
-  <a href="https://www.feijiangkeji.com">
-    <img src="https://img.shields.io/badge/%E9%A3%9E%E5%B0%86VPN-%E4%BC%81%E4%B8%9A%E7%BA%A7%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC-red?style=for-the-badge" alt="飞将VPN｜企业级远程办公">
-  </a>
-  <a href="https://www.feijiangkeji.com">
-    <img src="https://img.shields.io/badge/%E8%AE%A2%E9%98%85-299%E5%85%83%2F%E5%B9%B4-orange?style=for-the-badge" alt="订阅 299元/年">
-  </a>
-  <a href="https://www.feijiangkeji.com">
-    <img src="https://img.shields.io/badge/%E4%B9%B0%E6%96%AD-1299%E5%85%83%2F%E6%B0%B8%E4%B9%85-red?style=for-the-badge" alt="买断 1299元/永久">
-  </a>
-  <a href="https://www.feijiangkeji.com">
-    <img src="https://img.shields.io/badge/%E9%99%90%E5%89%8D-50%E5%90%8D-critical?style=for-the-badge" alt="限前 50 名">
-  </a>
-</div>
+**2、镜像基于vyos-1.3.0版本构建，dd完成后请升级到最新滚动版。**
 
-- ✅ 全端支持｜自研 Windows、macOS、Android、iOS 客户端；兼容 AnyConnect、OpenConnect，老员工免切换
-- 🧷 桌面增强｜自带本地密码箱，快捷登录，支持协议： SSH / RDP / VNC / Web / SFTP
-- 🚀 极简接入｜企业识别码直连，输入名称即连，用户无需记忆复杂IP端口
-- 🧩 组织对接｜OpenLDAP / Windows AD / 钉钉 / 飞书 / 企业微信 / 本地用户
-- 🛡️ 安全防护｜短信/邮件 2FA + 可信设备（内测中：堡垒机、DLP、办公管控）
-- 🧰 部署协助｜一键部署 + 专业网络指导 + 售后运维服务
+**3、镜像默认eth0和eth1口开了dhcp-client**
 
-> 🔴 限前 50 名内部价：10 人订阅 299 元/年｜10 人买断 1299 元/永久
+**4、ssh端口：22**
+
+**5、console接口有：hvc0、hvc1、ttyS0（115200）、ttyS1**
+
+**6、账号密码默认都是：vyos**
+
+**VyOS-技术交流群：228621344**
